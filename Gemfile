@@ -1,5 +1,17 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.2.1"
+gem "bigdecimal"
+gem "csv"
+gem "base64"
+gem "ipaddr"
+gem "mutex_m"
+gem "ostruct"
+gem "prime"
+gem "singleton"
+gem "stringio"
+gem "strscan"
+gem "zlib"
+gem "logger"
+gem "jekyll", "~> 4.2.2"
 gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do

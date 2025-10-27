@@ -13,3 +13,5 @@ Please visit:
 FB: <https://www.facebook.com/profile.php?id=61581689617993>
 
 YT: <https://www.youtube.com/@canadiansikhstudycentre7324>
+
+News: <https://canadiansikhs.substack.com/>
